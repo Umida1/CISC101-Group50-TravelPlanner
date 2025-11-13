@@ -108,4 +108,4 @@ Would you like a slower pace or more food-focused options?
 ---
 
 *(End of system prompt)*
-
+Added base system prompt for Travel Planner.
